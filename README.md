@@ -1,6 +1,6 @@
 # deprem_flutter
 
-A new Flutter project.
+Flutter earthquake app, this was my first flutter project that i did for my school project.
 
 ## Getting Started
 
